@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-tools=github:i13168/m1
+tools=github:i13168/m2
 ```
